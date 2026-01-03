@@ -1,41 +1,38 @@
 # 🏆 100 Days of Code - Python 🐍  
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/4b7f5e9a-d1e5-478e-be66-3c6e03ae43d4" />
 
-Bienvenue dans mon dépôt GitHub contenant tous les projets réalisés durant le challenge **100 Days of Code: The Complete Python Pro Bootcamp** d'Angela Yu sur Udemy.  
+# 🏆 100 Days of Code - Python 🐍
 
-## 📌 Description  
-Ce repository regroupe divers projets Python allant des bases du langage aux concepts avancés comme l'OOP, les API, le scraping web, et bien plus encore !  
+Welcome to my GitHub repository containing all the projects built during the **100 Days of Code: The Complete Python Pro Bootcamp** challenge by Angela Yu on Udemy.
 
----
-
-## 📂 Structure du Repository  
-Les projets sont classés en deux catégories principales :  
-
-### 📅 Projets quotidiens (jour par jour)  
-Ces projets suivent le cours jour après jour :  
-- `day24` → Gestion des fichiers  
-- `day25` → Manipulation de données avec Pandas  
-- `day26` → Compréhension des listes et dictionnaires  
-- `day27` → Introduction à Tkinter (GUI)  
-- `day28` → Création d'une application Pomodoro  
-- `day29` → Générateur de mots de passe avec Tkinter  
-- ... *(et ainsi de suite jusqu'à `day79`)*  
-
-### 🚀 Projets avancés  
-Des projets plus élaborés réalisés durant le cours :  
-- 🛒 `amazon_price_tracker` → Scraping de prix Amazon avec BeautifulSoup  
-- 🎰 `blackjack` → Jeu de Blackjack en Python  
-- ☕ `coffee_machine` → Simulation d'une machine à café  
-- 🚀 `snake_game.py` → Jeu Snake en utilisant Turtle  
-- 🏁 `turtle_race` → Course de tortues avec Turtle  
-- 🔒 `password_manager` → Gestionnaire de mots de passe avec stockage sécurisé  
-- 📊 `speed_test.py` → Testeur de vitesse Internet  
-- 🎯 `higher_lower` → Jeu basé sur les statistiques de célébrités  
-- ... *(et bien plus !)*  
+## 📌 Description
+This repository gathers a wide variety of Python projects, ranging from language basics to advanced concepts such as OOP, APIs, Web Scraping, Data Science, and much more!
 
 ---
 
-## 📦 Installation et Utilisation  
-1. **Clone le repo** :  
-   ```sh
-   git clone https://github.com/TON_NOM_UTILISATEUR/100-Days-of-Code-Python.git
-   cd 100-Days-of-Code-Python
+## 📂 Repository Structure
+The projects are organized into two main categories:
+
+### 📅 Daily Projects (Day by Day)
+These projects follow the course progression day by day:
+- `day24` → File Management (Files, Paths)
+- `day25` → Data Manipulation with Pandas
+- `day26` → List and Dictionary Comprehension
+- `day27` → Introduction to Tkinter (GUI)
+- `day28` → Pomodoro App Creation
+- `day29` → Password Generator with Tkinter
+- ... *(and so on up to `day79`)*
+
+### 🚀 Advanced Projects
+More complex projects built during the course:
+- 🛒 `amazon_price_tracker` → Amazon Price Tracker using BeautifulSoup
+- 🎰 `blackjack` → Blackjack Game in Python
+- ☕ `coffee_machine` → Coffee Machine Simulation (OOP)
+- 🚀 `snake_game.py` → Classic Snake Game using Turtle
+- 🏁 `turtle_race` → Turtle Racing Game
+- 🔒 `password_manager` → Password Manager with secure storage
+- 📊 `speed_test.py` → Internet Speed Twitter Bot
+- 🎯 `higher_lower` → Higher Lower Game
+- ... *(and much more!)*
+
+---
