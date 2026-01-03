@@ -1,7 +1,6 @@
 # 🏆 100 Days of Code - Python 🐍  
 <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/4b7f5e9a-d1e5-478e-be66-3c6e03ae43d4" />
 
-# 🏆 100 Days of Code - Python 🐍
 
 Welcome to my GitHub repository containing all the projects built during the **100 Days of Code: The Complete Python Pro Bootcamp** challenge by Angela Yu on Udemy.
 
